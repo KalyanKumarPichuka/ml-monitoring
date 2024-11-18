@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+numpy
+jupyter
+
+evidently==0.4.7
